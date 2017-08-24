@@ -2,15 +2,24 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Energy efficient crypto systems
+  role: Research Assistant
+  duration: Spring 2017 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Using precomputation technique to efficiently incorporate Internet stack in an energy harvested IoT node. Focuses on precomputing certain stages of cryptographic algorithms when excess energy is available from the harvester.
+  # Add extra points here
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Springfield Donut Eater's User Group
+- project: Micro-inverters for PV applications
+  role: Undergraduate researcher
+  duration: Spring 2016
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Designed a topology for converters to provide high gain for photo voltaic applications.
+
+- project: Optimizing relay operations
+  role: Undergraduate researcher
+  duration: Fall 2015
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: Optimized over-current relay coordination using MATLAB
